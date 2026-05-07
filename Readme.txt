@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Craftivo
-Template URL: https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+my first porfolio on git and i am happy for it. Of course i borrowed the style from the bootstrap made.
